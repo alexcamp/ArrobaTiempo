@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/PROYECTOS/arrobaTiempo/librerias/commonj-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/PROYECTOS/arrobaTiempo/librerias/log4j-1.2.8.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/zejbComunClient"/>
+	<classpathentry kind="lib" path="C:/PROYECTOS/arrobaTiempo/librerias/ala-nbi-webservice-client.jar"/>
+	<classpathentry kind="lib" path="C:/PROYECTOS/arrobaTiempo/librerias/webserviceclient.jar"/>
+	<classpathentry kind="lib" path="C:/PROYECTOS/arrobaTiempo/librerias/wsse.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

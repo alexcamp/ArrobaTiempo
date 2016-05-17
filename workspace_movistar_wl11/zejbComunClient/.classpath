@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="src" path="ejbentitiescomun"/>
+	<classpathentry kind="src" path="ejbsessionsvpistbba"/>
+	<classpathentry kind="src" path="utiles"/>
+	<classpathentry kind="src" path="ejbutiles"/>
+	<classpathentry kind="src" path="ejbserviciosvpistbba"/>
+	<classpathentry kind="src" path="ejbsessionscomun"/>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.utility"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="oracle.eclipse.tools.weblogic.lib.application/zearAll"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/zjarutiles"/>
+	<classpathentry kind="lib" path="C:/PROYECTOS/arrobaTiempo/librerias/log4j-1.2.8.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/zjarATiempoInterface"/>
+	<classpathentry kind="lib" path="C:/PROYECTOS/arrobaTiempo/librerias/jasperreports-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/PROYECTOS/arrobaTiempo/librerias/admin.jar"/>
+	<classpathentry kind="lib" path="C:/PROYECTOS/arrobaTiempo/librerias/directory.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/zejbEmuladorSigresClient"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
